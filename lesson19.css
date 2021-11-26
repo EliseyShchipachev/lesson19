@@ -1,0 +1,98 @@
+.navbar-brand{
+margin-left: 20px;
+}
+ul{
+color: white;
+}
+.ru{
+margin-right: 5px;
+}
+.container{
+padding-right: 1500px;
+flex-direction: row;
+padding-right: 150px;
+}
+.nav-item{
+padding-left: 60px;
+}
+.container-fluid2{
+float: right;
+}
+.btn{
+background-color: red;
+}
+.navbar{
+flex-direction: row;
+display: flex;
+}
+.mb-3{
+width: 50%;
+padding-top: 20px;
+}
+.form-control{
+width: 50%;
+}
+.people{
+margin-right:20px;
+margin-left: 20px;
+}
+nav{
+justify-content: space-around;
+}
+.menucaption{
+padding-right: 10px;
+margin-right: 0px;
+}
+.list-group{
+width: 100%;
+font-size: 10px;
+}
+.carouselandlist{
+display:flex;
+justify-content: baseline;
+float: left;
+}
+.catalog{
+padding-top: 500px;
+}
+.nav-link{
+margin-left: 5px;
+border: solid 2 px black;
+border-radius: 50%;
+}
+.lider{
+margin-left: 50px;
+margin-top: 10px;
+font-weight: 600;
+}
+.a.navbar-brand{
+float: left;
+padding-right: 140px;
+}
+.card-body{
+text-align: center;
+}
+.price{
+float: left;
+padding-top: 10px;
+} 
+.btn-primary{
+float: right;
+}
+.card{
+display: inline-block;
+margin-left: 50px;
+margin-top: 10px;
+}
+.card-img-top{
+box-sizing: content-box;
+}
+.footer{
+display: inline-block;
+}
+.form-control{
+width: 300px;
+}
+
+
+
